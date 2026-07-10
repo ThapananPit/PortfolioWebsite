@@ -22,7 +22,7 @@ export default function Hero() {
         </p>
 
         <h1 className="hero__name">
-          {personal.name || 'Your Name'}
+          {personal.name || 'Thapanan'}
         </h1>
 
         <div className="hero__title-row">
